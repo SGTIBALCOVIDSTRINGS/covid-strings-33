@@ -66,7 +66,7 @@ console.log(indigo isos win)
 else:
 console.log(black night riders win)
 result=declare winner(matchup3)
-if red>=forty:
+if red score >=forty:
 console.log(red protein spikers win)
 else:
 console.log(green peacemakers win)
