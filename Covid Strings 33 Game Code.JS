@@ -87,30 +87,30 @@ concatenated strings
 "getting"+"a"+"one"+"and"+"done"+"vaccine"+"for"+"infants"+"can"+"help"+"mitigate"+"covid"]
 covid strings33 multiple choice list=[1:a post pandemic b for nurse jackie c for russians d in a nicu,2:a gaming b christmas c anti-vaxers d streaming,3:a ukraine b alaska c moldova d poland,4:a 50 b 100 c 40 d 70,5:a canadas b mexicos c nicaraguas d americas,6:a immunity b winter c relief d eradication,7:a present b future c past d age of the earth,8:a multiverse b marvel universe c universe d environment,9:a kung flu b wuhan virus c rsv d covid,10:a underwood b mcgough c boeberts d bacall,11:a infants b high school seniors c senior citizens d high school juniors,12:a treatise b essay c graphic novel d elegy,13:a soon b eventually c never d in due time,14:a yes b no] 
 covid strings33 math problems list= [non-concatenated "if a line showing covid and gaming showed that as the pandemic forced more people to work remotely gaming increased what is the relationship"?,"if a line of covid and gaming with slope of 3 and a y intercept of 5 what would the y coordinate be if the x coordinate is 7"?,"if the previous point was reflected over the x axis what is the new point"?,"if the covid point(7,-26) was rotated 270 degrees counterclockwise what is the new point"?,"if the previous point was translated 5 units right and 13 units up what is the new point"?,"if the previous point was translated 15 units right and 7 units down what is the new point"?,"if that covid point was translated 1 unit left and 22 units up what is the new point"?,
-concatenated"if"+"83"+"percent"+"believe"+"a"+"new"+"covid"+"surge"+"from"+"russias"+"invasion"+"of"+"ukraine"+Will+Come+To+America+What+Percent+Dont?,If+42+Percent+Strongly+Believe+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+2.022+Percent+What+Is+The+Range?,If+A+Poll+Shows+That+98.9+Percent+Believe+That+Covid+Immunity+Lasting+For+Years+Is+Good+News+What+Percent+Dont?,If+97+Percent+Strongly+Believe+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+1.719+Percent+What+Is+The+Range?]
-Covid Strings33 Scrambled Phrase List=[Ovicd+Runse+Runbout,How+Ewns+Archm,Ovicd+Vinuerse] 
-Covid Strings33 Sentence =(The Mainstreaming Of Covid Historical Fiction Will Come Soon )
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-Myclass=New.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Prompt
-Log
-Else:
-Select From Multiple Choice
-Import Syntax
-Chart JS 
-Def Gradient
-Id=MyGradient
+concatenated"if"+"83"+"percent"+"believe"+"a"+"new"+"covid"+"surge"+"from"+"russias"+"invasion"+"of"+"ukraine"+"will"+"come"+"to"+"america"+"what"+"percent"+"dont"?,"if"+"42"+"percent"+"strongly"+"believe"+"what"+"percent"+"is"+"mild"?,"if"+"the"+"margin"+"of"+"error"+"is"+"2.022"+"percent"+"what"+"is"+"the"+"range"?,"if"+"a"+"poll"+"shows"+"that"+"98.9"+"percent"+"believe"+"that"+"covid"+Immunity+Lasting+For+Years+Is+Good+News+What+Percent+Dont?,If+97+Percent+Strongly+Believe+What+Percent+Is+Mild?,If+The+Margin+Of+Error+Is+1.719+Percent+What+Is+The+Range?]
+covid strings33 scrambled phrase list=["ovicd"+"runse"+"runbout","how"+"ewns"+"archm","ovicd"+"vinuerse"] 
+covid strings33 sentence=("the mainstreaming of covid historical fiction will come soon")
+userin.select team
+import meta.
+class my class
+constructor (non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+myclass=new.myclass(concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+import syntax
+chart js 
+def gradient
+id=mygradient
 GradientUnits=UserSpaceOnUse
 Function1=Covid Effect On Remote Work And Gaming
 If Function1Slope>=1:
